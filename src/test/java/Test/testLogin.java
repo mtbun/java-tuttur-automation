@@ -9,7 +9,7 @@ public class testLogin extends BaseTest {
 
     /*
     Case 1.0
-    Başarılı Login
+    successful Login
      */
     @Test
     public void LoginCase(){
@@ -22,7 +22,7 @@ public class testLogin extends BaseTest {
 
     /*
     Case 1.1
-    Başarısız login without username
+    unsuccessful login without username
      */
     @Test
     public void LoginCase2(){
